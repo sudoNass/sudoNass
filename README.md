@@ -5,9 +5,6 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/Nf4c78TXj4cAAAAd/wut-computer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudonass&label=Profile%20views&color=0e75b6&style=flat" alt="sudonass" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudonass" alt="sudonass" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nassasmari" target="blank"><img src="https://img.shields.io/twitter/follow/nassasmari?logo=twitter&style=for-the-badge" alt="nassasmari" /></a> </p>
 
