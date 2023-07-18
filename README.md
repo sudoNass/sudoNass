@@ -1,4 +1,7 @@
-[![MasterHead](https://media.tenor.com/jzZkdfuKcMAAAAAC/cat-kiss.gif)](https://rishavchanda.io)
+<div style="text-align: center;">
+  <a href="https://rishavchanda.io" target="_blank"><img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="MasterHead"></a>
+</div>
+
 
 
 
